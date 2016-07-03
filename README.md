@@ -26,11 +26,11 @@ The provided CSV file has the following columns:
 
 1. Calculate average weekly sales of all items in all stores:
 
-2. Calculate weekly standard deviation of all items in all stores:
-
 a. Find total sales quantity of all items in all stores.
 
 b. Divide total sales by number of weeks in the dataset.
+
+2. Calculate weekly standard deviation of all items in all stores:
 
 a. Calculate each week's sales for a product in all stores: Sales [x1, x2, x3, x4,. ...] N
 
