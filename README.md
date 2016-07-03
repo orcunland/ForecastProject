@@ -1,6 +1,4 @@
-# ForecastProject
-
-Forecast Project Requirements
+# Forecast Project Requirements
 
 One of the most important parts of the algorithms developed in Invent Analytics use historical sales
 
@@ -73,6 +71,8 @@ for the preceding weeks. EstimatedSalesis the estimated sales of productX
 in storeX.
 
 The result of steps 1 and 2 should be saved as a CSV file with the following format:
+
+● AverageWeeklySales
 
 ● WeeklyStandardDeviation
 
